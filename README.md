@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on computational modeling of magnetorheological elastomers for my PhD in Physics, using Python and Cython
+- 🌱 I’m currently learning as I go, and hoping to do (more) semi-formal coursework in computer science on my own
+- 🤔 I’m looking for help with becoming an effective software engineer (and collaborator) and doing multidisciplinary scientific computing
+- 💬 Ask me about learning and working independently
+- 📫 How to reach me: dmarchfi@colostate.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I also have a degree in Biological Sciences. I pursued physics in part because of the questions I had about protein behavior and synthesis, as well as supportive undergraduate professors and research advisors
 <!--
 **mre-cong/mre-cong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
