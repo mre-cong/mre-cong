@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on computational modeling of magnetorheological elastomers for my PhD in Physics, using Python and Cython
+- 🔭 I’m currently working on computational modeling of magnetorheological elastomers for my PhD in Physics, using Python, Cython, CuPy (CUDA)
 - 🌱 I’m currently learning as I go, and hoping to do (more) semi-formal coursework in computer science on my own
 - 🤔 I’m looking for help with becoming an effective software engineer (and collaborator) and doing multidisciplinary scientific computing
 - 💬 Ask me about learning and working independently
